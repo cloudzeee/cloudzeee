@@ -1,4 +1,5 @@
 ### Hi there 👋I'm Isaac Uche
+👀 I’m passionate Cloud & DevOps emerging technologies.
 
 <!--
 **cloudzeee/cloudzeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
