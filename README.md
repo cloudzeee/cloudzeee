@@ -8,9 +8,8 @@
 - 🔭 Azure
 - 🌱 Devops
 - 👯 Technical Support
-- 🤔 Microsoft 365
-- 💬 Sharepoint/Onedrive/Exchange Online
-- 📫 Programming -Html, php, python
+- 🤔 Microsoft 365 - Sharepoint/Onedrive/Exchange Online
+- 📫 Programming -Html, php, NodeJs
 - 😄 CCNA
 - ⚡ Certifications - AZ-400, AZ-104, AZ-900, CCNA(R&S)
-- ⚡ ⚡⚡Know about my experience - https://www.linkedin.com/in/isaac-uche/
+- ⚡ ⚡⚡Know more about my experience or reeach me on- https://www.linkedin.com/in/isaac-uche/
